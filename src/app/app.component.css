@@ -1,0 +1,12 @@
+
+.centerChart{
+    position: fixed;
+    top: 20em;
+    left: 40em;
+    width: 50%;
+    height: 52%;
+    margin-top: -9em;
+    margin-left: -15em;
+    border: 1px solid #ccc;
+    background-color: #f3f3f3;
+}
